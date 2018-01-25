@@ -1,0 +1,2 @@
+This was very useful because it allowed me to see exactly the lines that had changed. 
+This meant that I did not have to search through the file line by line. 

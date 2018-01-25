@@ -1,0 +1,6 @@
+This was very useful because it allowed me to see exactly the lines that had changed. 
+This meant that I did not have to search through the file line by line. 
+
+This could make me more efficient as I can see all of the changes that have been made
+
+This is very useful for projects with multiple steps 
